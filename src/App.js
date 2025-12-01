@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Overview from "./components/Overview";
+import Overview from "./components/OverView";
 import InputForm from "./components/InputForm";
 import PredictionTable from "./components/PredictionTable";
 import LoadingSpinner from "./components/LoadingSpinner";
