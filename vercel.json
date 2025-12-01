@@ -1,0 +1,4 @@
+{
+  "buildCommand": "npm install && npx --yes parcel build index.html --dist-dir build",
+  "outputDirectory": "build"
+}
