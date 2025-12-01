@@ -1,4 +1,5 @@
 {
-  "buildCommand": "npm install && npx --yes parcel build index.html --dist-dir build",
-  "outputDirectory": "build"
+  "buildCommand": "npx parcel@2.16.1 build index.html --dist-dir build --no-cache",
+  "outputDirectory": "build",
+  "installCommand": "npm ci"
 }
